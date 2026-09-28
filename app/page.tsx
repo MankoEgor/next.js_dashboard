@@ -2,11 +2,7 @@ import AcmeLogo from '@/app/ui/acme-logo';
 import { ArrowRightIcon } from '@heroicons/react/24/outline';
 import Link from 'next/link';
 import styles from '@/app/ui/home.module.css';
-<<<<<<< HEAD
-import {lusitana} from "@/app/ui/font";
-=======
 import {lusitana} from "@/app/ui/fonts";
->>>>>>> feature/add_database
 import Image from "next/image";
 
 export default function Page() {
