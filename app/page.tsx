@@ -38,15 +38,15 @@ export default function Page() {
                 alt="Screenshots of the dashboard project showing desktop version"
                 />
 
-            <Image
-                src="/hero-mobile.png"
-                width={500}
-                height={620}
-                className="hidden md:block"
-                alt="Screenshots of the dashboard project showing desktop version"
-            />
+            {/*<Image*/}
+            {/*    src="/hero-mobile.png"*/}
+            {/*    width={500}*/}
+            {/*    height={620}*/}
+            {/*    className="hidden md:block"*/}
+            {/*    alt="Screenshots of the dashboard project showing desktop version"*/}
+            {/*/>*/}
         </div>
-          <div className={styles.shape} />
+          {/*<div className={styles.shape} />*/}
       </div>
     </main>
   );
